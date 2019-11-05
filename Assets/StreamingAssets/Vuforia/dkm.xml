@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="s1200" size="1.000000 0.854167" />
+    <ImageTarget name="263c5bd44887c92c4a8387a4427a081d" size="1.000000 1.000000" />
+    <ImageTarget name="kisspng-traffic-sign-pedestrian-crossing" size="1.000000 1.000000" />
+    <ImageTarget name="757_big" size="1.000000 0.880734" />
+    <ImageTarget name="perehod" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
